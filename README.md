@@ -3,7 +3,7 @@
 🚀 Frontend Developer | Engineer | Freelancer  
 
 I’m a frontend developer based in the Philippines with **2+ years of experience** building responsive, scalable, and user-friendly web applications.  
-Currently working as a **freelance developer**, I enjoy turning designs into functional, high-quality products.  
+I can build **modern websites, interactive UIs, and smooth user experiences** that help bring ideas to life.
 
 ---
 
