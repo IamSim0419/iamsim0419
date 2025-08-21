@@ -11,7 +11,8 @@ Currently working as a **freelance developer**, I enjoy turning designs into fun
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
 - **Frameworks & Libraries:** Vue 3, React, GSAP, Tailwind CSS  
 - **State Management:** Pinia, Redux  
-- **Tools & Platforms:** Git, Vite, Figma, VS Code  
+- **Tools & Platforms:** Git, Github, Vite, Figma, VSCode
+- **Backend & Runtime:** Node.js, Express 
 - **Testing:** Vitest  
 
 ---
