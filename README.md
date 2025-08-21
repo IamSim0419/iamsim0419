@@ -25,9 +25,9 @@ Currently working as a **freelance developer**, I enjoy turning designs into fun
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/simreich-somogod-a977a02b3/))  
-- 🐦 [Twitter]([https://twitter.com/](https://x.com/iamsimreich))  
-- 🌐 [Portfolio Website]([https://your-portfolio-link.com](https://personal-porfolio-with-guestnote-six.vercel.app/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/simreich-somogod-a977a02b3/)
+- 🐦 [Twitter](https://x.com/iamsimreich) 
+- 🌐 [Portfolio Website](https://personal-porfolio-with-guestnote-six.vercel.app/) 
 
 ---
 
