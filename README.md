@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there, I'm Simreich  
 
-<!--
-**IamSim0419/iamsim0419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | Engineer | Freelancer  
 
-Here are some ideas to get you started:
+I’m a frontend developer based in the Philippines with **2+ years of experience** building responsive, scalable, and user-friendly web applications.  
+Currently working as a **freelance developer**, I enjoy turning designs into functional, high-quality products.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Libraries:** Vue 3, React, GSAP, Tailwind CSS  
+- **State Management:** Pinia, Redux  
+- **Tools & Platforms:** Git, Vite, Figma, VS Code  
+- **Testing:** Vitest  
+
+---
+
+## 🌱 What I’m Learning  
+- Advanced GSAP Animations for web interactions  
+- Vue 3 ecosystem & Composition API best practices  
+- Building reusable frontend components for scalability
+  
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/simreich-somogod-a977a02b3/))  
+- 🐦 [Twitter]([https://twitter.com/](https://x.com/iamsimreich))  
+- 🌐 [Portfolio Website]([https://your-portfolio-link.com](https://personal-porfolio-with-guestnote-six.vercel.app/))  
+
+---
+
+⭐️ _"Made with care and plenty of coffee."_  
