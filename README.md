@@ -9,11 +9,13 @@ I can build **modern websites, interactive UIs, and smooth user experiences** th
 
 ## 🛠️ Tech Stack  
 - **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Vue 3, React, GSAP, Tailwind CSS  
+- **Frameworks & Libraries:** Vue 3, React, GSAP, TailwindCSS  
 - **State Management:** Pinia, Redux  
 - **Tools & Platforms:** Git, Github, Vite, Figma, VSCode
-- **Backend & Runtime:** Node.js, Express 
-- **Testing:** Vitest  
+- **Backend & Runtime:** Node.js, Express
+- **Build Tools:** Vite, Webpack
+- **Hosting & Deployment:** Vercel, Netlify 
+- **Testing:** Vitest 
 
 ---
 
