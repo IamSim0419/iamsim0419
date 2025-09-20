@@ -29,7 +29,7 @@ I can build **modern websites, interactive UIs, and smooth user experiences** th
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/simreich-somogod-a977a02b3/)
 - 🐦 [Twitter](https://x.com/iamsimreich) 
-- 🌐 [Portfolio Website](https://personal-porfolio-with-guestnote-six.vercel.app/) 
+- 🌐 [Portfolio Website](https://myportfolio-simreich.vercel.app/) 
 
 ---
 
