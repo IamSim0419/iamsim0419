@@ -1,18 +1,18 @@
-# 👋 Hi there, I'm Simreich  
+# 👋 Hi there, My name is Simreich  
 
 🚀 Frontend Developer | Engineer | Freelancer  
 
-I’m a frontend developer based in the Philippines with **2+ years of experience** building responsive, scalable, and user-friendly web applications.  
+I’m a fullstack developer based in the Philippines with **2+ years of experience** building responsive, scalable, and user-friendly web applications.  
 I can build **modern websites, interactive UIs, and smooth user experiences** that help bring ideas to life.
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Languages:** HTML, CSS, JavaScript, TypeScript , Python, C
 - **Frameworks & Libraries:** Vue 3, React, GSAP, TailwindCSS  
 - **State Management:** Pinia, Redux  
 - **Tools & Platforms:** Git, Github, Vite, Figma, VSCode
-- **Backend & Runtime:** Node.js, Express
+- **Backend & Runtime:** Node.js, Express, FastAPI
 - **Build Tools:** Vite, Webpack
 - **Hosting & Deployment:** Vercel, Netlify 
 - **Testing:** Vitest 
