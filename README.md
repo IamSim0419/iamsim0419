@@ -1,6 +1,6 @@
 # 👋 Hi there, My name is Simreich  
 
-🚀 Frontend Developer | Engineer | Freelancer  
+🚀 Fullstack Developer | Engineer | Freelancer  
 
 I’m a fullstack developer based in the Philippines with **2+ years of experience** building responsive, scalable, and user-friendly web applications.  
 I can build **modern websites, interactive UIs, and smooth user experiences** that help bring ideas to life.
