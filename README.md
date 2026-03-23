@@ -21,8 +21,8 @@ I can build **modern websites, interactive UIs, and smooth user experiences** th
 
 ## 🌱 What I’m Learning  
 - Advanced GSAP Animations for web interactions  
-- Vue 3 ecosystem & Composition API best practices  
-- Building reusable frontend components for scalability
+- Advance AI and integrations
+- Building building fullstack applications
   
 ---
 
