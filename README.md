@@ -14,13 +14,12 @@ I can build **modern websites, interactive UIs, and smooth user experiences** th
 - **Tools & Platforms:** Git, Github, Vite, Figma, VSCode
 - **Backend & Runtime:** Node.js, Express, FastAPI
 - **Build Tools:** Vite, Webpack
-- **Hosting & Deployment:** Vercel, Netlify 
+- **Hosting & Deployment:** Vercel, Netlify, Render 
 - **Testing:** Vitest 
 
 ---
 
-## 🌱 What I’m Learning  
-- Advanced GSAP Animations for web interactions  
+## 🌱 What I’m Learning   
 - Advance AI and integrations
 - Building building fullstack applications
   
